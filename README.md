@@ -1,8 +1,10 @@
 # task8--elevatelabs
 # CYBERSECURITY INTERNSHIP - TASK 8(WORKING WITH VPNs)
 Working with VPNs (Virtual Private Networks) involves understanding their function, setting them up, and being aware of their benefits and limitations in securing online communication and privacy.
-### Objective: The primary objective when working with VPNs is to understand their role in protecting privacy and securing communication.
-### Tools: Free VPN clients like ProtonVPN free tier or Windscribe free are recommended for hands-on experience.
+### Objective: 
+The primary objective when working with VPNs is to understand their role in protecting privacy and securing communication.
+### Tools: 
+Free VPN clients like ProtonVPN free tier or Windscribe free are recommended for hands-on experience.
 ### Steps Involved :
  * Choose and Sign Up: Select a reputable free VPN service and complete the sign-up process.
  * Download and Install: Download and install the VPN client software on your device.
@@ -57,8 +59,10 @@ When connected to the VPN, I observed a [slight/noticeable] decrease in Browse s
 ![Screenshot 2025-06-23 164804](https://github.com/user-attachments/assets/553aa155-443b-43c4-bbf8-6f984ad4e78b)
 
 
-### Outcome: Successfully completing these steps provides hands-on experience with VPNs and enhances your understanding of essential privacy tools.
-### Key Concepts: Important concepts related to working with VPNs include VPN itself, encryption, privacy, tunneling protocols, and overall network security.
+### Outcome: 
+Successfully completing these steps provides hands-on experience with VPNs and enhances your understanding of essential privacy tools.
+### Key Concepts:
+Important concepts related to working with VPNs include VPN itself, encryption, privacy, tunneling protocols, and overall network security.
 ### interview questions 
 1. What is a VPN?
 A VPN, or Virtual Private Network, is a technology that creates a secure and encrypted connection over a less secure network, such as the internet. It protects privacy and ensures secure communication.
